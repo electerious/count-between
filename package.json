@@ -1,0 +1,36 @@
+{
+  "name": "count-between",
+  "version": "1.0.0",
+  "authors": [
+    "Tobias Reich <tobias@electerious.com>"
+  ],
+  "description": "Count up and down between two numbers",
+  "main": "src/index.js",
+  "keywords": [
+    "count",
+    "number",
+    "integer",
+    "range",
+    "loop",
+    "counter"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/electerious/count-between",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electerious/count-between.git"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "coveralls": "cat ./coverage/lcov.info | coveralls",
+    "test": "istanbul cover _mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.9",
+    "istanbul": "^0.4.4",
+    "mocha": "^2.5.3"
+  }
+}

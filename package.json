@@ -4,7 +4,7 @@
   "authors": [
     "Tobias Reich <tobias@electerious.com>"
   ],
-  "description": "Count up and down between two numbers",
+  "description": "Counts up and down between two numbers",
   "main": "src/index.js",
   "keywords": [
     "count",

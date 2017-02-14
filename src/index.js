@@ -1,6 +1,6 @@
 'use strict'
 
-/*
+/**
  * Count up and down between two numbers.
  * @param {Number} min - Minimum number.
  * @param {Number} max - Maximum number.

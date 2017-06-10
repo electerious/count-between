@@ -33,7 +33,7 @@ c() // 4
 
 ### Returns
 
-- `instance` `{Function}({?Number})` [Count-between instance](#instance-api).
+- `{Function}({?Number})` [Count-between instance](#instance-api).
 
 ## Instance API
 

@@ -1,6 +1,6 @@
 # count-between
 
-[![Travis Build Status](https://travis-ci.org/electerious/count-between.svg?branch=master)](https://travis-ci.org/electerious/count-between) [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/1by72uvhws2v8fa2?svg=true)](https://ci.appveyor.com/project/electerious/count-between) [![Coverage Status](https://coveralls.io/repos/github/electerious/count-between/badge.svg?branch=master)](https://coveralls.io/github/electerious/count-between?branch=master) [![Dependencies](https://david-dm.org/electerious/count-between.svg)](https://david-dm.org/electerious/count-between#info=dependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/electerious/count-between.svg)](https://greenkeeper.io/)
+[![Travis Build Status](https://travis-ci.org/electerious/count-between.svg?branch=master)](https://travis-ci.org/electerious/count-between) [![Coverage Status](https://coveralls.io/repos/github/electerious/count-between/badge.svg?branch=master)](https://coveralls.io/github/electerious/count-between?branch=master) [![Dependencies](https://david-dm.org/electerious/count-between.svg)](https://david-dm.org/electerious/count-between#info=dependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/electerious/count-between.svg)](https://greenkeeper.io/)
 
 Count up and down between two numbers.
 

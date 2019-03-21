@@ -13,8 +13,9 @@ module.exports = function(min, max, initial) {
 
 	let index = initial - min
 
-	return function(modifier = 0) {
+	return function(modifier) {
 
+		modifier = modifier || 0
 		index = (index + modifier) % length
 
 		if (index >= 0) index = 0 + index

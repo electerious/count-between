@@ -13,7 +13,7 @@ module.exports = function(min, max, initial) {
 
 	let index = initial - min
 
-	return (modifier = 0) => {
+	return function(modifier = 0) {
 
 		index = (index + modifier) % length
 
